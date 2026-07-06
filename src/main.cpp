@@ -6,8 +6,8 @@
 //==============================
 // WiFi Credentials
 //==============================
-const char* ssid = "ImaxeunoPC";
-const char* password = "00000000";
+const char* ssid = "SSID_HERE";
+const char* password = "PASS_HERE";
 
 //==============================
 // AI Thinker ESP32-CAM Pinout
